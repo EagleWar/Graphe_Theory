@@ -1,1 +1,3 @@
 # Graphe_Theory
+
+L'objectif de ce projet est d'être capable, à partir d'un graphe, de résoudre des problèmes comme: ce graphe possède t-il des circuits, la calcul du rang, les dates au plus tôt et au plus tard...
